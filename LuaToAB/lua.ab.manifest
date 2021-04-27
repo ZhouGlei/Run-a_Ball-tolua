@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 597926973
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b5de68ec01ef4ac64fe8d08de06adfed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MyLua/LuaUnityUpdate/Brick.bytes
+- Assets/MyLua/LuaUnityUpdate/Player.bytes
+- Assets/MyLua/LuaUnityUpdate/MainCamera.bytes
+- Assets/MyLua/LuaUnityUpdate/Bricks.bytes
+Dependencies: []

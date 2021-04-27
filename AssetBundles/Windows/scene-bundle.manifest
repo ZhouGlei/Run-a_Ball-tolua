@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 4024324357
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 78241ddec2ea949e945d3a7bd28cf2bd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1d374f54ba1b3cb8e1764f2a12342042
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleSample/SampleAssets/TestScene.unity
+Dependencies:
+- E:/GameProject/ToLua/tolua-master/AssetBundles/Windows/material-bundle

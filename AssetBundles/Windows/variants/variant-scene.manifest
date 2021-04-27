@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 3699494956
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 70be0201bdc914fc89b2c66686dfd986
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e7c25f8d9026bb66ac4dc928254bd9a4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleSample/SampleAssets/Variants/VariantScene.unity
+Dependencies:
+- E:/GameProject/ToLua/tolua-master/AssetBundles/Windows/variants/myassets.hd

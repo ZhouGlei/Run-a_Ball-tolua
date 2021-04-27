@@ -124,7 +124,7 @@ public static class CustomSettings
         _GT(typeof(Space)),      
        
 
-        _GT(typeof(MeshRenderer)),
+        
 #if !UNITY_5_4_OR_NEWER
         _GT(typeof(ParticleEmitter)),
         _GT(typeof(ParticleRenderer)),
@@ -133,6 +133,7 @@ public static class CustomSettings
 
         _GT(typeof(BoxCollider)),
         _GT(typeof(MeshCollider)),
+        //_GT(typeof(MeshRenderer)),
         _GT(typeof(SphereCollider)),        
         _GT(typeof(CharacterController)),
         _GT(typeof(CapsuleCollider)),
